@@ -1,0 +1,38 @@
+{
+  "name": "planet-emoji",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-native-scripts": "1.13.1",
+    "jest-expo": "26.0.0",
+    "react-test-renderer": "16.3.0-alpha.1"
+  },
+  "main": "./node_modules/react-native-scripts/build/bin/crna-entry.js",
+  "scripts": {
+    "start": "react-native-scripts start",
+    "eject": "react-native-scripts eject",
+    "android": "react-native-scripts android",
+    "ios": "react-native-scripts ios",
+    "test": "jest"
+  },
+  "jest": {
+    "preset": "jest-expo"
+  },
+  "dependencies": {
+    "expo": "^26.0.0",
+    "react": "16.3.0-alpha.1",
+    "react-native": "0.54.0"
+  },
+  "description": "This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JARED-J/planet-emoji.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JARED-J/planet-emoji/issues"
+  },
+  "homepage": "https://github.com/JARED-J/planet-emoji#readme"
+}
